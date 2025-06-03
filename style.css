@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#game-container {
+    text-align: center;
+    border: 2px solid #333;
+    padding: 20px;
+    height: 600px;
+    width: 600px;
+    background-image: url(hangman.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 1px white;
+    
+}
+#ickisim{
+    width: 300px;
+    margin-top: 180px;  
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#hangman-display {
+    display: none;
+    margin-bottom: 10px;
+    max-width: 100px;
+    max-height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    margin-top: 10px;
+}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hangman</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="game-container">
+        <div id="ickisim">
+        <h1>Hangman</h1>
+        <!-- <img id="hangman-display" src="rip.webp"></img> -->
+        <p id="word-display"></p>
+        <p>Kalan Haklar: <span id="remaining-lives">6</span></p>
+        <input type="text" id="guess-input" placeholder="Harf tahmin et" maxlength="1">
+        <button onclick="makeGuess()">Tahmin Et</button>
+        <p id="message"></p>
+        <button onclick="restartGame()">Tekrar oyna</button>
+        </div>
+    </div>
+    <script src="hangman.js"></script>
+    
+</body>
+</html>
