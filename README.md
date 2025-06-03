@@ -5,7 +5,6 @@ HTML, CSS ve JavaScript kullanılarak geliştirilmiş klasik bir Adam Asmaca kel
 ## Özellikler
 
 - İnteraktif kelime tahmin oyunu
-- Her yanlış tahminde güncellenen görsel adam asmaca çizimi
 - Klavye girişi desteği
 - Duyarlı tasarım
 - Doğru ve yanlış tahminler için görsel geri bildirim
