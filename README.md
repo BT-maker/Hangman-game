@@ -37,6 +37,4 @@ HTML, CSS ve JavaScript kullanılarak geliştirilmiş klasik bir Adam Asmaca kel
 2. `index.html` dosyasını web tarayıcınızda açın
 3. Oynamaya başlayın!
 
-## Lisans
 
-Bu proje açık kaynaklıdır ve MIT Lisansı altında kullanılabilir. # Hangman-game
